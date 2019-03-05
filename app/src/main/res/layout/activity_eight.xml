@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/minar"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        tools:context=".Eight">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="সেক্টর -০8 "
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সমগ্র কুষ্টিয়া ও যশোর জেলা, ফরিদপুরের অধিকাংশ এলাকা এবং দৌলতপুর-সাতক্ষীরা সড়কের উত্তরাংশ "
+            android:background="@color/colorAccentwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="কমান্ডার "
+            android:background="@color/green"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text=" মেজর আবু ওসমান চৌধুরী (এপ্রিল- আগস্ট)\n মেজর এম.এ. মনজুর (আগস্ট-ডিসেম্বর)"
+          android:background="@color/colorAccentwwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সাব-সেক্টর কমান্ডারদের  "
+            android:background="@color/bkue"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="16dp"
+            android:gravity="center"
+            android:text=" বয়ড়া (ক্যাপ্টেন খন্দকার নাজমুল হুদা)\n
+হাকিমপুর (ক্যাপ্টেন সফিউল্লাহ)\n
+ভোমরা (ক্যাপ্টেন সালাউদ্দিন, ক্যাপ্টেন শাহাবুদ্দিন)\n
+লালবাজার (ক্যাপ্টেন এ আর আজম চৌধুরী)\n
+বনপুর (ক্যাপ্টেন মোস্তাফিজুর রহমান)\n
+বেনাপোল (ক্যাপ্টেন আবদুল হালিম\n ক্যাপ্টেন তৌফিক-ই-ইলাহী চৌধুরী)\n
+শিকারপুর (ক্যাপ্টেন তৌফিক-ই-ইলাহী চৌধুরী, লেফটেন্যান্ট জাহাঙ্গীর)
+"
+            android:textColor="@color/black"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

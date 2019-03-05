@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/minar"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        tools:context=".Three">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="সেক্টর -০৩ "
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সিলেট জেলার হবিগঞ্জ মহকুমা, কিশোরগঞ্জ মহকুমা, আখাউড়া-ভৈরব রেললাইন থেকে উত্তর-পূর্ব দিকে কুমিল্লা ও ঢাকা জেলার অংশবিশেষ   "
+            android:background="@color/colorAccentwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="কমান্ডার "
+            android:background="@color/green"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text=" মেজর কে.এম. শফিউল্লাহ (এপ্রিল-সেপ্টেম্বর)\n মেজর এ.এন.এম. নুরুজ্জামান (সেপ্টেম্বর-ডিসেম্বর)"
+            android:background="@color/colorAccentwwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সাব-সেক্টর কমান্ডারদের  "
+            android:background="@color/bkue"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="16dp"
+            android:gravity="center"
+            android:text="    আশ্রমবাড়ি (ক্যাপ্টেন আজিজ, ক্যাপ্টেন ইজাজ)\n
+    বাঘাইবাড়ি (ক্যাপ্টেন আজিজ, ক্যাপ্টেন ইজাজ)\n
+    হাতকাটা (ক্যাপ্টেন মতিউর রহমান);
+    সিমলা (ক্যাপ্টেন মতিন)\n
+    পঞ্চবাটি (ক্যাপ্টেন নাসিম)\n
+    মনতালা (ক্যাপ্টেন এম এস এ ভূঁইয়া)\n
+    বিজয়নগর (ক্যাপ্টেন এম এস এ ভূঁইয়া)\n
+    কালাচ্ছরা (লেফটেন্যান্ট মজুমদার);
+    কলকলিয়া (লেফটেন্যান্ট গোলাম হেলাল মোর্শেদ)\n
+    বামুতিয়া (লেফটেন্যান্ট সাঈদ)\n
+ "
+            android:textColor="@color/black"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

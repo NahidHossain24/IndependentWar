@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/minar"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="8dp"
+        android:layout_height="match_parent"
+        tools:context=".Home">
+
+
+        <Button
+            android:id="@+id/angry1"
+            android:text="০১ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/angry2"
+            android:text="০২ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/angry3"
+            android:text="০৩ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/angry4"
+            android:text="০৪ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/angry5"
+            android:text="০৫ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+
+
+        <Button
+            android:id="@+id/angry6"
+            android:text="০৬ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+
+        <Button
+            android:id="@+id/angry7"
+            android:text="০৭ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+
+        <Button
+            android:id="@+id/angry8"
+            android:text="০৮ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+
+        <Button
+            android:id="@+id/angry09"
+            android:text="০৯ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+
+        <Button
+            android:id="@+id/angry10"
+            android:text="১০ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+
+        <Button
+            android:id="@+id/angry11"
+            android:text="১১ নম্বর সেক্টর"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+
+
+
+        <Button
+            android:id="@+id/me"
+            android:text="ডেভলপার"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:layout_margin="7dp"
+            android:textStyle="bold"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"/>
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

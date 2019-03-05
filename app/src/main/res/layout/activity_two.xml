@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/minar"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        tools:context=".Two">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="সেক্টর -০২ "
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="নোয়াখালী জেলা, কুমিল্লা জেলার আখাউড়া-ভৈরব রেললাইন পর্যন্ত এবং ফরিদপুর ও ঢাকার অংশবিশেষ  "
+            android:background="@color/colorAccentwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="কমান্ডার "
+            android:background="@color/green"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text=" মেজর খালেদ মোশাররফ (এপ্রিল-সেপ্টেম্বর)\n
+মেজর এ.টি.এম. হায়দার(সেপ্টেম্বর-ডিসেম্বর)  "
+            android:background="@color/colorAccentwwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সাব-সেক্টর কমান্ডারদের  "
+            android:background="@color/bkue"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="16dp"
+            android:gravity="center"
+            android:text=" গঙ্গাসাগর, আখাউড়া এবং কসবা (মাহবুব,লেফটেন্যান্ট ফারুক এবং লেফটেন্যান্ট হুমায়ুন কবির)\n
+    মন্দাভব (ক্যাপ্টেন গফর)\n
+    সালদা-নদী (মাহমুদ হাসান)\n
+    মতিনগর (ল্লেফটেন্যান্ট দিদারুল আলম)\n
+    নির্ভয়পুর (ক্যাপ্টেন আকবর, লেফটেন্যান্ট মাহবুব)\n
+    রাজনগর (ক্যাপ্টেন জাফর ইমাম, ক্যাপ্টেন শহীদ,এবং লেফটেন্যান্ট ইমামুজ্জামান"
+            android:textColor="@color/black"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

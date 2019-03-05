@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/minar"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        tools:context=".Seven">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="সেক্টর -০৭ "
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="দিনাজপুর জেলার দক্ষিণাঞ্চল, বগুড়া, রাজশাহী এবং পাবনা জেলা"
+            android:background="@color/colorAccentwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="কমান্ডার "
+            android:background="@color/green"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text=" মেজর নাজমুল হক(এপ্রিল-আগস্ট,দুর্ঘটনায় নিহত)\n
+ মেজর কাজী নূরুজ্জামান(আগস্ট-ডিসেম্বর)
+ "
+            android:background="@color/colorAccentwwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সাব-সেক্টর কমান্ডারদের  "
+            android:background="@color/bkue"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="16dp"
+            android:gravity="center"
+            android:text=" মালন (প্রথমদিকে ই পি আর এর জুনিয়র কমিশন প্রাপ্ত অফিসারদের মধ্যে ভাগ করে দেয়া হয় এবং পরে ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গির দায়িত্ব নেন )\n
+    তপন ( মেজর নাজমুল হক)\n
+    মেহেদিপুর (সুবেদার ইলিয়াস, ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গির )\n
+    হামজাপুর (ক্যাপ্টেন ইদ্রিস)\n
+    আঙিনাবাদ (অজানা মুক্তিযোদ্ধা)\n
+    শেখপাড়া (ক্যাপ্টেন রশিদ)\n
+    ঠোকরাবাড়ি (সুবেদার মুয়াজ্জেম);\n
+    লালগোলা (ক্যাপ্টেন গিয়াসউদ্দিন চৌধুরী)\n"
+            android:textColor="@color/black"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

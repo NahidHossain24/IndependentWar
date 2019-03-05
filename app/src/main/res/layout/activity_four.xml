@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/minar"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:background="@drawable/minar"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        tools:context=".Four">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="সেক্টর -০৪ "
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সিলেট জেলার পূর্বাঞ্চল এবং খোয়াই-শায়েস্তাগঞ্জ রেললাইন বাদে পূর্ব ও উত্তর দিকে সিলেট-ডাউকি সড়ক পর্যন্ত   "
+            android:background="@color/colorAccentwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="কমান্ডার "
+            android:background="@color/green"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text=" মেজর সি.আর. দত্ত  "
+            android:background="@color/colorAccentwwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সাব-সেক্টর কমান্ডারদের  "
+            android:background="@color/bkue"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="16dp"
+            android:gravity="center"
+            android:text="  জালালপুর (মাহবুবুর রব সাদী)\n
+    বাড়াপুঞ্জি (ক্যাপ্টেন এ রব)\n
+    আমলাসিদ (লেফটেন্যান্ট জহির)\n
+    কুকিতাল (ফ্লাইট লেফটেন্যান্ট কাদের, ক্যাপ্টেন শরিফুল হক)\n
+    কৈলাস শহর (লেফটেন্যান্ট ওয়াকিউজ্জামান)\n
+    কামালপুর (ক্যাপ্টেন এনাম)\n
+ "
+            android:textColor="@color/black"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

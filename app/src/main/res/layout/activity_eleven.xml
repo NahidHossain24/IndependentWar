@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/minar"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        tools:context=".Eleven">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:background="@color/red"
+            android:gravity="center"
+            android:text="সেক্টর -১১ "
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="কিশোরগঞ্জ মহকুমা বাদে সমগ্র ময়মনসিংহ ও টাঙ্গাইল জেলা এবং নগরবাড়ি-আরিচা থকে ফুলছড়ি-বাহাদুরাবাদ পর্যন্ত যমুনা নদী ও তীর অঞ্চল
+"
+            android:background="@color/colorAccentwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="কমান্ডার "
+            android:background="@color/green"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text=" মেজর আবু তাহের (আগস্ট-নভেম্বর)\n
+ ফ্লাইট লেফটেন্যান্ট এম. হামিদুল্লাহ (নভেম্বর-ডিসেম্বর)\n   "
+            android:background="@color/colorAccentwwww"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:text="সাব-সেক্টর কমান্ডারদের  "
+            android:background="@color/bkue"
+            android:textColor="@color/white"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="16dp"
+            android:gravity="center"
+            android:text="   মানকারচর (স্কোয়াড্রন লিডার এম হামিদুল্লাহ খান)\n
+    মাহেন্দ্রগঞ্জ (মেজর আবু তাহের; লেফটেন্যান্ট মান্নান)\n
+    পুরাখাসিয়া (লেফটেন্যান্ট হাশেম)\n
+    ধালু (লেফটেন্যান্ট তাহের; লেফটেন্যান্ট কামাল)\n
+    রংগ্রা (মতিউর রহমান)\n
+    শিভাবাড়ি (ই পি আর এর জুনিয়র কমিশন প্রাপ্ত অফিসারদের মধ্যে ভাগ করে দেয়া হয় )\n
+    বাগমারা (ই পি আর এর জুনিয়র কমিশন প্রাপ্ত অফিসারদের মধ্যে ভাগ করে দেয়া হয় )\n
+    মাহেশখোলা (ই পি আর এর জনৈক সদস্য)\n\n\n\n
+    টাংগাইল সেক্টর - সমগ্র টাংগাইল জেলা ছাড়াও ময়মনসিংহ ও ঢাকা জেলার অংশ - কাদের সিদ্দিকী ।
+আকাশপথ - বাংলাদেশের সমগ্র আকাশসীমা - গ্রুপ ক্যাপ্টেন এ.কে. খন্দকার।
+
+এছাড়া কর্নেল ওসমানী তিনটি ব্রিগেড আকারের ফোর্স গঠন করেছিলেন যেগুলোর নামকরণ করা হয় তাদের অধিনায়কদের নামের অদ্যাংশ দিয়ে ( এস ফোর্স,কে ফোর্স,জেড ফোর্স)
+ "
+            android:textColor="@color/black"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

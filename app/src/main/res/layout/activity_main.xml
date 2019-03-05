@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/wallonest"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="বাংলাদেশের মহান মুক্তিযুদ্ধের সকল সেক্টর ও স্থান"
+       android:layout_margin="4dp"
+       android:layout_gravity="center"
+       android:gravity="center"
+       android:textStyle="bold"
+       android:textColor="@android:color/white"
+       android:textSize="30sp"/>
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_margin="17dp"
+        android:src="@drawable/flag"/>
+
+</LinearLayout>
